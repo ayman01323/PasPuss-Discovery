@@ -1,8 +1,8 @@
 {
-  "flow_http": "https://spa-treo-respect-longitude.trycloudflare.com",
-  "flow_ws": "wss://spa-treo-respect-longitude.trycloudflare.com",
-  "relay_http": "https://spa-treo-respect-longitude.trycloudflare.com/commander",
-  "relay_ws": "wss://spa-treo-respect-longitude.trycloudflare.com/commander/device",
-  "health": "https://spa-treo-respect-longitude.trycloudflare.com/commander/health",
-  "updated_at": "2026-09-23T01:35:21.261312+00:00"
+  "flow_http": "https://seafood-molecules-namespace-argument.trycloudflare.com",
+  "flow_ws": "wss://seafood-molecules-namespace-argument.trycloudflare.com",
+  "relay_http": "https://seafood-molecules-namespace-argument.trycloudflare.com/commander",
+  "relay_ws": "wss://seafood-molecules-namespace-argument.trycloudflare.com/commander/device",
+  "health": "https://seafood-molecules-namespace-argument.trycloudflare.com/commander/health",
+  "updated_at": "2026-09-29T22:40:00Z"
 }
