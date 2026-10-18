@@ -1,8 +1,8 @@
 {
-  "flow_http": "https://reveals-develop-papua-used.trycloudflare.com",
-  "flow_ws": "wss://reveals-develop-papua-used.trycloudflare.com",
-  "relay_http": "https://reveals-develop-papua-used.trycloudflare.com/commander",
-  "relay_ws": "wss://reveals-develop-papua-used.trycloudflare.com/commander/device",
-  "health": "https://reveals-develop-papua-used.trycloudflare.com/commander/health",
-  "updated_at": "2026-09-30T01:07:46.075685Z"
+  "flow_http": "https://flow.paspuss.us",
+  "flow_ws": "wss://flow.paspuss.us",
+  "relay_http": "https://flow.paspuss.us/commander",
+  "relay_ws": "wss://flow.paspuss.us/commander/device",
+  "health": "https://flow.paspuss.us/commander/health",
+  "updated_at": "2026-10-18T17:00:00Z"
 }
