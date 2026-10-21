@@ -1,9 +1,9 @@
 {
-  "flow_http": "https://highlighted-election-investor-estimates.trycloudflare.com",
-  "flow_ws": "wss://highlighted-election-investor-estimates.trycloudflare.com",
-  "relay_http": "https://highlighted-election-investor-estimates.trycloudflare.com/commander",
-  "relay_ws": "wss://highlighted-election-investor-estimates.trycloudflare.com/commander/device",
-  "health": "https://highlighted-election-investor-estimates.trycloudflare.com/commander/health",
-  "updated_at": "2026-10-21T17:05:19.038801Z",
+  "flow_http": "https://compared-awareness-const-coleman.trycloudflare.com",
+  "flow_ws": "wss://compared-awareness-const-coleman.trycloudflare.com",
+  "relay_http": "https://compared-awareness-const-coleman.trycloudflare.com/commander",
+  "relay_ws": "wss://compared-awareness-const-coleman.trycloudflare.com/commander/device",
+  "health": "https://compared-awareness-const-coleman.trycloudflare.com/commander/health",
+  "updated_at": "2026-10-21T23:16:00.311794Z",
   "publisher_vm": "paspuss-server"
 }
