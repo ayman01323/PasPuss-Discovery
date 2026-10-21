@@ -1,8 +1,8 @@
 {
-  "flow_http": "https://reveals-develop-papua-used.trycloudflare.com",
-  "flow_ws": "wss://reveals-develop-papua-used.trycloudflare.com",
-  "relay_http": "https://reveals-develop-papua-used.trycloudflare.com/commander",
-  "relay_ws": "wss://reveals-develop-papua-used.trycloudflare.com/commander/device",
-  "health": "https://reveals-develop-papua-used.trycloudflare.com/commander/health",
-  "updated_at": "2026-09-30T01:07:46.075685Z"
+  "flow_http": "https://fruits-titled-imports-signed.trycloudflare.com",
+  "flow_ws": "wss://fruits-titled-imports-signed.trycloudflare.com",
+  "relay_http": "https://fruits-titled-imports-signed.trycloudflare.com/commander",
+  "relay_ws": "wss://fruits-titled-imports-signed.trycloudflare.com/commander/device",
+  "health": "https://fruits-titled-imports-signed.trycloudflare.com/commander/health",
+  "updated_at": "2026-10-21T12:35:00Z"
 }
