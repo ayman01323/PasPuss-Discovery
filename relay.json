@@ -1,8 +1,8 @@
 {
-  "flow_http": "https://fruits-titled-imports-signed.trycloudflare.com",
-  "flow_ws": "wss://fruits-titled-imports-signed.trycloudflare.com",
-  "relay_http": "https://fruits-titled-imports-signed.trycloudflare.com/commander",
-  "relay_ws": "wss://fruits-titled-imports-signed.trycloudflare.com/commander/device",
-  "health": "https://fruits-titled-imports-signed.trycloudflare.com/commander/health",
-  "updated_at": "2026-10-21T12:35:00Z"
+  "flow_http": "https://highlighted-election-investor-estimates.trycloudflare.com",
+  "flow_ws": "wss://highlighted-election-investor-estimates.trycloudflare.com",
+  "relay_http": "https://highlighted-election-investor-estimates.trycloudflare.com/commander",
+  "relay_ws": "wss://highlighted-election-investor-estimates.trycloudflare.com/commander/device",
+  "health": "https://highlighted-election-investor-estimates.trycloudflare.com/commander/health",
+  "updated_at": "2026-10-21T14:26:53.397121+00:00"
 }
