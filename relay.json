@@ -1,9 +1,9 @@
 {
-  "flow_http": "https://recommendations-chief-influenced-themselves.trycloudflare.com",
-  "flow_ws": "wss://recommendations-chief-influenced-themselves.trycloudflare.com",
-  "relay_http": "https://recommendations-chief-influenced-themselves.trycloudflare.com/commander",
-  "relay_ws": "wss://recommendations-chief-influenced-themselves.trycloudflare.com/commander/device",
-  "health": "https://recommendations-chief-influenced-themselves.trycloudflare.com/commander/health",
-  "updated_at": "2026-10-22T00:45:30.818635Z",
+  "flow_http": "https://flow.paspuss.us",
+  "flow_ws": "wss://flow.paspuss.us",
+  "relay_http": "https://flow.paspuss.us/commander",
+  "relay_ws": "wss://flow.paspuss.us/commander/device",
+  "health": "https://flow.paspuss.us/commander/health",
+  "updated_at": "2026-10-22T01:20:20.334650Z",
   "publisher_vm": "paspuss-server"
 }
