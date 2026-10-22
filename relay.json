@@ -1,9 +1,9 @@
 {
-  "flow_http": "https://fisheries-artificial-biz-english.trycloudflare.com",
-  "flow_ws": "wss://fisheries-artificial-biz-english.trycloudflare.com",
-  "relay_http": "https://fisheries-artificial-biz-english.trycloudflare.com/commander",
-  "relay_ws": "wss://fisheries-artificial-biz-english.trycloudflare.com/commander/device",
-  "health": "https://fisheries-artificial-biz-english.trycloudflare.com/commander/health",
-  "updated_at": "2026-10-22T16:20:37.260570Z",
+  "flow_http": "https://flow.paspuss.us",
+  "flow_ws": "wss://flow.paspuss.us",
+  "relay_http": "https://flow.paspuss.us/commander",
+  "relay_ws": "wss://flow.paspuss.us/commander/device",
+  "health": "https://flow.paspuss.us/commander/health",
+  "updated_at": "2026-10-22T22:30:17.460301Z",
   "publisher_vm": "paspuss-server"
 }
