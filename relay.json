@@ -1,9 +1,9 @@
 {
-  "flow_http": "https://flow.paspuss.us",
-  "flow_ws": "wss://flow.paspuss.us",
-  "relay_http": "https://flow.paspuss.us/commander",
-  "relay_ws": "wss://flow.paspuss.us/commander/device",
-  "health": "https://flow.paspuss.us/commander/health",
-  "updated_at": "2026-11-03T09:25:24.053618Z",
+  "flow_http": "https://offers-directed-batteries-revised.trycloudflare.com",
+  "flow_ws": "wss://offers-directed-batteries-revised.trycloudflare.com",
+  "relay_http": "https://offers-directed-batteries-revised.trycloudflare.com/commander",
+  "relay_ws": "wss://offers-directed-batteries-revised.trycloudflare.com/commander/device",
+  "health": "https://offers-directed-batteries-revised.trycloudflare.com/commander/health",
+  "updated_at": "2026-11-03T19:20:47.819860Z",
   "publisher_vm": "paspuss-server"
 }
